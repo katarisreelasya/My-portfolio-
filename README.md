@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sree Lasya Katari — Portfolio
 
 Futuristic SDET / Full-Stack portfolio built with Next.js 15, React 19, TypeScript, Tailwind CSS, Framer Motion and Lenis.
@@ -31,3 +32,6 @@ src/lib/data.ts    all site content (edit text, links, projects here)
 1. Push the repo to GitHub.
 2. Import it at https://vercel.com/new (framework is auto-detected as Next.js; no extra settings needed).
 3. Set `profile.url` in `src/lib/data.ts` to your production domain (used for SEO metadata, sitemap and robots).
+=======
+# My-portfolio-
+>>>>>>> 9b26ccb3714a0a8597dfb9ebd42e32e3230ad1e6
